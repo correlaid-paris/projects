@@ -8,10 +8,16 @@ Liubov or Rahel or visit our website
 https://correlaid.org/correlaid-x/paris/
 
 
+
+
 # Topics 
 1. Analysis of health data 
 2. Analysis of mobility data 
+3. Analysis of patients data
 
-# Recent events of CorrelAid Paris 
+# Events of CorrelAid Paris 
 On 3rd of October 2019
 https://www.eventbrite.fr/e/sprint-data-on-vaccination-by-jogl-correlaid-paris-registration-73972360321
+
+On 23rd of October 2019 hackathon
+https://www.eventbrite.fr/e/sprint-project-creation-hack-vaccination-challenges-by-jogl-x-co-immune-registration-74429848681
