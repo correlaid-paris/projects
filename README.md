@@ -18,9 +18,10 @@ Write to us at liubov.tupikin at cri-paris.org if you have other ideas on projec
 
 
 # Topics of the projects
-1. Analysis of health data 
+1. Analysis of health data  
 2. Analysis of mobility data 
-3. Analysis of patients data
+3. Analysis of patients data https://github.com/oliviermirat/MonsterMizer/
+4. Analysis of citizen science https://github.com/Liyubov/citizen_science
 
 # Events of CorrelAid Paris 
 On 3rd of October 2019
@@ -31,4 +32,4 @@ https://www.eventbrite.fr/e/sprint-project-creation-hack-vaccination-challenges-
 
 On 26th of October meeting with CorrelAid in Paris
 
-If you would like to receive information about future events in CorrelAid, write to us at liubov.tupikina at cri-paris.org or https://app.jogl.io/community/12  
+If you would like to receive information about future events in CorrelAid, write to us at liubov.tupikina at cri-paris.org, to Rahel, Liubov, https://app.jogl.io/community/12  and CorrelAid slack 
