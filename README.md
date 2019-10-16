@@ -30,3 +30,5 @@ On 23rd of October 2019 hackathon
 https://www.eventbrite.fr/e/sprint-project-creation-hack-vaccination-challenges-by-jogl-x-co-immune-registration-74429848681
 
 On 26th of October meeting with CorrelAid in Paris
+
+If you would like to receive information about future events in CorrelAid, write to us at liubov.tupikina at cri-paris.org or https://app.jogl.io/community/12  
