@@ -9,8 +9,9 @@ https://correlaid.org/correlaid-x/paris/
 
 Visit our repositories for possible ideas for the projects:
 1. patients community https://github.com/correlaid-paris/MonsterMizer 
-2. association on education 
-Write to us at liubov.tupikin at cri-paris.org if you have other ideas on projects
+2. analysis of open citizen science data 
+
+Write to us at liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
 
 
 
