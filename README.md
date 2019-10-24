@@ -9,7 +9,7 @@ https://correlaid.org/correlaid-x/paris/
 
 Visit our repositories for possible ideas for the projects:
 1. patients community https://github.com/correlaid-paris/MonsterMizer 
-2. analysis of open citizen science data 
+2. analysis of open citizen science data https://github.com/Liyubov/citizen_science
 
 Write to us at liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
 
@@ -21,8 +21,8 @@ Write to us at liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you 
 # Topics of the projects
 1. Analysis of health data  
 2. Analysis of mobility data 
-3. Analysis of patients data https://github.com/oliviermirat/MonsterMizer/
-4. Analysis of citizen science https://github.com/Liyubov/citizen_science
+3. Analysis of patients data 
+4. Analysis of citizen science 
 
 # Events of CorrelAid Paris 
 On 3rd of October 2019
