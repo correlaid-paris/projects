@@ -5,9 +5,6 @@ Repository has description of main topics of projects from CorrelAid Paris.
 https://correlaid.org/correlaid-x/paris/
 
 
-For suggestions of projects please contact 
-Liubov or Rahel  liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
-
 
 
 # Topics of the projects
@@ -32,4 +29,7 @@ https://www.eventbrite.fr/e/sprint-project-creation-hack-vaccination-challenges-
 
 On 26th of October meeting with CorrelAid in Paris
 
-If you would like to receive information about future events in CorrelAid, write to us at liubov.tupikina at cri-paris.org, to Rahel, Liubov, https://app.jogl.io/community/12  and CorrelAid slack 
+If you would like to receive information about future events in CorrelAid, for suggestions of projects please contact 
+Liubov or Rahel  liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
+
+https://app.jogl.io/community/12  and CorrelAid slack 
