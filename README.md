@@ -28,7 +28,7 @@ Write to us at liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you 
 On 3rd of October 2019
 https://www.eventbrite.fr/e/sprint-data-on-vaccination-by-jogl-correlaid-paris-registration-73972360321
 
-On 23rd of October 2019 hackathon
+On 29rd of October 2019 hackathon
 https://www.eventbrite.fr/e/sprint-project-creation-hack-vaccination-challenges-by-jogl-x-co-immune-registration-74429848681
 
 On 26th of October meeting with CorrelAid in Paris
