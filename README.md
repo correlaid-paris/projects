@@ -18,6 +18,7 @@ Visit repositories and projects of our colleagues for possible ideas for the pro
 1. patients community https://github.com/correlaid-paris/MonsterMizer 
 2. analysis of open citizen science data https://github.com/Liyubov/citizen_science
 3. educational projects https://app.jogl.io/project/24
+4. ecological projects http://envol-vert.org
 
 
 # Events of CorrelAid Paris 
