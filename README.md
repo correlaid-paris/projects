@@ -13,6 +13,7 @@ https://correlaid.org/correlaid-x/paris/
 3. Analysis of patients data 
 4. Analysis of citizen science 
 5. Analysis of educational data
+5. Analysis of environmental data
 
 Visit repositories and projects of our colleagues for possible ideas for the projects:
 1. patients community https://github.com/oliviermirat/MonsterMizer (initial repo)
