@@ -4,7 +4,7 @@ The main goal of this repository is to keep track of open projects from CorrelAi
 Repository has description of main topics of projects from CorrelAid Paris. 
 https://correlaid.org/correlaid-x/paris/
 
-
+In 2019 we started to work on several projects on different topics.
 
 
 # Topics of the projects
@@ -33,6 +33,7 @@ https://www.eventbrite.fr/e/sprint-project-creation-hack-vaccination-challenges-
 
 On 26th of October meeting with CorrelAid in Paris.
 
+# Contact
 If you would like to receive information about future events in CorrelAid, for suggestions of projects please contact 
 Liubov or Rahel  liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
 
