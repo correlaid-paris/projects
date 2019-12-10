@@ -36,6 +36,8 @@ On 26th of October meeting with CorrelAid in Paris.
 
 On 26th of November we organise small call CorrelAid Paris.
 
+On 12th of December meeting at CRI cri-paris.org at 7pm.
+
 # Contact
 If you would like to receive information about future events in CorrelAid, for suggestions of projects please contact 
 Liubov or Rahel  liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
