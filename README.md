@@ -19,7 +19,7 @@ We are working with different associations and communities on:
 Visit repositories and projects of our colleagues for possible ideas for the projects:
 1. patients community https://github.com/oliviermirat/MonsterMizer (initial repo) and website for collection of data on the webstie http://www.monstermizer.com/
 2. analysis of open citizen science data https://github.com/Liyubov/citizen_science
-3. educational projects https://app.jogl.io/project/24
+3. educational projects https://app.jogl.io/project/24 and https://github.com/correlaid-paris/project_educatoin_lecturers_without_borders
 4. ecological projects http://envol-vert.org
 
 More information here https://app.jogl.io/community/12  and CorrelAid slack 
@@ -37,6 +37,8 @@ On 26th of October meeting with CorrelAid in Paris.
 On 26th of November we organise small call CorrelAid Paris.
 
 On 12th of December meeting at CRI cri-paris.org at 7pm.
+
+In 2020 we plan several offline events, please contact us!
 
 # Contact
 If you would like to receive information about future events in CorrelAid, for suggestions of projects please contact 
