@@ -1,6 +1,6 @@
 # Projects of CorrelAid Paris 
 
-The main goal of this repository is to keep track of open projects from CorrelAid Paris. 
+Here we keep track of open projects from CorrelAid Paris data-science volunteers. 
 Repository has description of main topics of projects from CorrelAid Paris. 
 https://correlaid.org/correlaid-x/paris/
 
@@ -40,6 +40,8 @@ On 12th of December meeting at CRI cri-paris.org at 7pm.
 
 In 2020 we plan several offline events, please contact us!
 Hackathons on open data days https://liyubov.github.io/healthycityhack.github.io/
+
+We participate in Open Data Days opendatadays.org event in Paris on 7th March.
 
 # Contact
 If you would like to receive information about future events in CorrelAid, for suggestions of projects please contact 
