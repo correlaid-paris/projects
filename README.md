@@ -15,6 +15,7 @@ We are working with different associations and communities on:
 4. Analysis of citizen science 
 5. Analysis of educational data
 5. Analysis of environmental data
+5. Preparation of datasets for other associations
 
 # Projects with associations and projects
 Visit **repositories** and projects of our colleagues for possible ideas for the projects:
