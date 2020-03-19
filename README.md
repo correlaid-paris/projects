@@ -19,11 +19,17 @@ We are working with different associations and communities on:
 
 # Projects with associations and projects
 Visit **repositories** and projects of our colleagues for possible ideas for the projects:
-1. patients community https://github.com/oliviermirat/MonsterMizer (initial repo) and website for collection of data on the webstie http://www.monstermizer.com/
-2. analysis of open citizen science data https://github.com/Liyubov/citizen_science
-3. educational projects https://app.jogl.io/project/24 and https://github.com/correlaid-paris/project_educatoin_lecturers_without_borders
-4. ecological projects http://envol-vert.org (in 2019)
-5. association from Nepal Ear Care Nepal (in discussions)
+1. #health, #AI, #dataanalysis project with patients community from @olivier   https://github.com/oliviermirat/MonsterMizer (initial repo) and website for collection of data on  http://www.monstermizer.com/ 
+status: ongoing project with 3 interns working on it (together with @esteban @bartho @olivier @bastian)
+needs: looking for 1 person who could also help on data analysis
+2. #health, #privacy, #dataanalysis: association from Ear Care Nepal http://www.earcarenepal.org/
+status: onboarding, search of people interested
+needs: looking for 1 person 2-4 hours a week to analyse and depersonalise data, changing dashboard for association working with remote schools. ping me if you are interested
+
+Other projects:
+1. #citizenscience: analysis of open citizen science data with UK Mapping for change https://github.com/Liyubov/citizen_science
+2. #education, #mobility educational projects www.scied.network https://app.jogl.io/project/24 and https://github.com/correlaid-paris/project_educatoin_lecturers_without_borders
+We also had some discussions with ecological projects http://envol-vert.org (in 2019)
 
 
 
