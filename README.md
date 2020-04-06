@@ -15,7 +15,7 @@ We are working with different associations and communities on:
 4. Analysis of citizen science 
 5. Analysis of educational data
 5. Analysis of environmental data
-5. Preparation of datasets for other associations
+6. Preparation of datasets for other associations 
 
 # Projects with associations and projects
 Visit **repositories** and projects of our colleagues for possible ideas for the projects:
@@ -30,7 +30,7 @@ Other projects:
 1. #citizenscience: analysis of open citizen science data with UK Mapping for change https://github.com/Liyubov/citizen_science
 2. #education, #mobility educational projects www.scied.network https://app.jogl.io/project/24 and https://github.com/correlaid-paris/project_educatoin_lecturers_without_borders
 We also had some discussions with ecological projects http://envol-vert.org (in 2019)
-
+3. If you are interested in participating and helping with uploading and preparing open data set https://github.com/correlaid-paris/awesome-data
 
 
 # Events with  CorrelAid Paris 
@@ -50,6 +50,8 @@ In 2020 we plan several offline events, please contact us!
 Hackathons on open data days https://liyubov.github.io/healthycityhack.github.io/
 
 We participate in Open Data Days www.opendataday.org event in Paris on 7th March.
+
+We participate in covid hackathons happening now around the globe. Check the Open Covid on www.jogl.io website platform.
 
 # Contact
 If you would like to receive information about future events in CorrelAid, for suggestions of projects please contact 
