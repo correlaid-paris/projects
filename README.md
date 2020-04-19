@@ -3,11 +3,12 @@
 Here we keep track of open projects from CorrelAid Paris data-science volunteers. 
 Repository has description of main topics of projects from CorrelAid Paris. 
 https://correlaid.org/correlaid-x/paris/
+Desription and call for projects from 2020 is written here https://pad.correlaid.org/UMUr9_nmSdOGYPRRGNc8Ng?view
 
-In 2019 we started to work on several projects on different topics.
 
 
 # Topics of the projects
+From 2019 we work to on projects on the following topics. 
 We are working with different associations and communities on:
 1. Analysis of health data  
 2. Analysis of mobility data 
