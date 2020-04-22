@@ -56,5 +56,5 @@ We participate in covid hackathons happening now around the globe. Check the Ope
 
 # Contact
 If you would like to receive information about future events in CorrelAid, for suggestions of projects please contact 
-Liubov or Rahel  liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
+Liubov, Rahel, Vivien or Marianna  liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
 
