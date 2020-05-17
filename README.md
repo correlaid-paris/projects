@@ -8,8 +8,7 @@ Desription and call for projects from 2020 is written here https://pad.correlaid
 
 
 # Topics of the projects
-From 2019 we work to on projects on the following topics. 
-We are working with different associations and communities on:
+Currently we are working on projects on the following topics with different associations and communities on:
 1. Analysis of health data  
 2. Analysis of mobility data 
 3. Analysis of patients data 
@@ -54,7 +53,9 @@ We participate in Open Data Days www.opendataday.org event in Paris on 7th March
 
 We participate in covid hackathons happening now around the globe. Check the Open Covid on www.jogl.io website platform.
 
+COVID-19 Datathon organised by MIT read more on https://covid19challenge.mit.edu/datathon/
+
 # Contact
 If you would like to receive information about future events in CorrelAid, for suggestions of projects please contact 
-Liubov, Rahel, Vivien or Marianna  liubov.tupikina@cri-paris.org or rahel-becker@hotmail.com if you have other ideas on projects!
+Liubov, Rahel, Vivien or Marianna  liubov.tupikina@cri-paris.org if you have other ideas on projects!
 
