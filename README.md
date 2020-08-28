@@ -14,6 +14,8 @@ needs: looking for 1 person who could also help on data analysis
 
 2. cultural map of Paris (project together with CorrelAid X NL chapter)
 
+3. citizen science project (UK and France)
+
 **Setting up projects:**
 
 1. #citizenscience: analysis of open citizen science data with UK Mapping for change https://github.com/Liyubov/citizen_science
