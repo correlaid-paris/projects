@@ -12,7 +12,7 @@ Visit **repositories** and projects of our colleagues for possible ideas for the
 status: ongoing project with 3 interns working on it (together with @esteban @bartho @olivier @bastian)
 needs: looking for 1 person who could also help on data analysis
 
-2. cultural map of Paris (project together with CorrelAid X NL chapter)
+2. cultural map of Paris (project together with CorrelAid X NL chapter) in collaboration with "Vera in the city" and "City Sense lab" https://github.com/Liyubov/verainthecity
 
 3. citizen science project (UK and France) https://github.com/correlaid-paris/citizen_science
 
